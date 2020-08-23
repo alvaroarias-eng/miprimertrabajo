@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mein Erster Job</string>
+    <string name="text_main">Willkommen</string>
+    <string name="text_button">BETRETEN</string>
+</resources>

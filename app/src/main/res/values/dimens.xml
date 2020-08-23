@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_wide">40sp</dimen>
+    <dimen name="text_wide_large">120sp</dimen>
+    <dimen name="text_wide_tablet">60</dimen>
+
+</resources>
